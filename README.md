@@ -1,6 +1,6 @@
 # Assignment 3 — EDS 232
 
-**Regualrization, PCA and Decision Trees**
+**Regualrization, PCA, Decision Trees, and High Dimensional data**
 
 This repository contains the starter notebooks and files for Assignment 3. You will work across three tasks that focus on regularization, PCA, decision trees, and working with high dimensional data. 
 
